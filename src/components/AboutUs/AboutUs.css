@@ -1,0 +1,27 @@
+
+.aboutUs-container {
+    display: flex;
+    justify-content: center;
+    
+}
+
+  
+.aboutUs-title {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 16px;
+}
+  
+.aboutUs-paragraph {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.aboutUs-card {
+    width: 18rem;
+    margin: 10px;
+    flex-direction: row;
+    
+}
+  
