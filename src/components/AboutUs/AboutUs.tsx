@@ -10,7 +10,7 @@ function AboutUs() {
             <div className="aboutUs-container">
                 <div className="aboutUs-card">
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src="src/assets/images/card1.jpg" />
+                        <Card.Img variant="top" src="/images/card1.jpg" />
                         <Card.Body>
                             <Card.Title>Gato 1</Card.Title>
                             <Card.Text>
@@ -23,7 +23,7 @@ function AboutUs() {
 
                 <div className="aboutUs-card">
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src="src/assets/images/card2.jpg" />
+                        <Card.Img variant="top" src="/images/card2.jpg" />
                         <Card.Body>
                             <Card.Title>Gato 2</Card.Title>
                             <Card.Text>
@@ -36,7 +36,7 @@ function AboutUs() {
 
                 <div className="aboutUs-card">
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src="src/assets/images/card3.jpg" />
+                        <Card.Img variant="top" src="/images/card3.jpg" />
                         <Card.Body>
                             <Card.Title>Gato 3</Card.Title>
                             <Card.Text>
